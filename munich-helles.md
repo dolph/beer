@@ -21,12 +21,13 @@ Yeast:
 Recipe
 -------
 
-1. Add 4 gallons water to mash.
-2. Add 5.25 gallons water to hot liquor.
+1. Add 4 gallons water to mash tun.
+2. Add 5.25 gallons water to hot liquor tank.
 3. Start with Kettle switch OFF.
 3. Heat 4 gallons of strike water in mash tun to 150 F (with exit alarm).
-4. Add malted barley to mash tun.
-5. Maintain mash temp at 150 F for 60 minutes (with exit alarm); heat hot liquor to 170 F and maintain.
+4. Add malted barley to mash tun when alarm sounds.
+5. Maintain mash temp at 150 F for 60 minutes (with exit alarm); heat hot
+   liquor tank to 170 F and maintain.
 6. Begin fly sparging.
 7. Turn Kettle switch to ON.
 8. Boil until hot break.
